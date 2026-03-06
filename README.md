@@ -17,7 +17,7 @@ In **Breakout**, the player controls a paddle to bounce a ball against a wall of
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/breakout-game.git
+   git clone https:[//github.com/NickQZ/Breakout.git
 
 Open the project in Eclipse IDE.
 
