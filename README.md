@@ -14,21 +14,6 @@ In **Breakout**, the player controls a paddle to bounce a ball against a wall of
 - **GUI Framework:** Swing (`javax.swing`, `java.awt`)  
 - **IDE:** Eclipse  
 
-## Project Structure
-
-Breakout/
-│
-├── src/
-│ ├── Game.java # Main game logic and loop
-│ ├── Paddle.java # Paddle class
-│ ├── Ball.java # Ball class
-│ └── Brick.java # Brick class
-│
-├── assets/ # Optional images or sounds
-├── README.md # This file
-└── LICENSE # License file
-
-
 ## How to Run
 1. Clone the repository:  
    ```bash
